@@ -2,7 +2,7 @@
 # Example with a property key 'ro.du.version' : Parse the date 20180123 from du_dumpling-v12.0-20180123-1345-UNOFFICIAL.zip
 
 ota_url=https://raw.githubusercontent.com/KillerDroid96/OTA/O8/Devices.xml
-release_type=Unofficial
+release_type=Stable
 device_name=ro.vendor.product.name
 version_source=ro.du.version
 version_delimiter=-
